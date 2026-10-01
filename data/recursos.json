@@ -14,5 +14,13 @@
         "tema": "Control de versiones",
         "nivel": "Básico",
         "autor": "Plataforma educativa"
+    },
+    {
+        "id": 3,
+        "titulo": "Fundamentos de bases de datos",
+        "tipo": "Artículo",
+        "tema": "Bases de datos",
+        "nivel": "Intermedio",
+        "autor": "Autor de ejemplo"
     }
 ]
