@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "Introducción a Python",
+        "tipo": "Libro",
+        "tema": "Programación",
+        "nivel": "Básico",
+        "autor": "Autor de ejemplo"
+    },
+    {
+        "id": 2,
+        "titulo": "Curso de Git y GitHub",
+        "tipo": "Video",
+        "tema": "Control de versiones",
+        "nivel": "Básico",
+        "autor": "Plataforma educativa"
+    }
+]
