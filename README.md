@@ -26,3 +26,10 @@ Preparar la estructura, documentación y configuración inicial del proyecto par
 ## Dependencias
 - requests
 - rich
+
+## Próximas mejoras
+
+- Agregar un sistema para registrar nuevos recursos.
+- Permitir buscar recursos por tipo y tema.
+- Crear una interfaz para consultar los recursos.
+- Agregar pruebas para las funciones principales.
