@@ -8,4 +8,4 @@
 ## v1.1.0 - 02/10/2026
 - Incorporada documentación adicional:
   - Archivo docs/fuentes_recomendadas.md con cinco fuentes académicas.
-  - Actualización de docs/criterios.md con dos nuevos criterios (idioma y año de publicación).
+  - Actualización de docs/criterios.md con dos nuevos criterios (idioma y año de publicación).2
